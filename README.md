@@ -1,7 +1,6 @@
 # 📝 Smart Note Management System | Next.js & FastAPI
 
 **Notepad AI** is a modern note-taking application that allows users to easily create, edit, tag, and efficiently find their notes through **semantic search**.  
-This project was developed as a sample internship project at **Sampa Otomotiv**.
 
 ---
 
